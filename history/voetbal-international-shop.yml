@@ -1,7 +1,7 @@
-url: https://next.shop.vi.nl
-status: up
-code: 200
-responseTime: 767
-lastUpdated: 2025-08-05T06:33:36.591Z
+url: https://shop.vi.nl
+status: down
+code: 503
+responseTime: 801
+lastUpdated: 2025-08-05T06:33:44.258Z
 startTime: 2025-08-05T06:31:30.101Z
 generator: Upptime <https://github.com/upptime/upptime>
