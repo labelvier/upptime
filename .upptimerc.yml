@@ -48,6 +48,8 @@ sites:
     url: https://support.cyberdigma.nl
   - name: Label Vier Updater
     url: https://updater.labelvier.nl
+    - name: Test
+    url: https://apple.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
