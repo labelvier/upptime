@@ -8,6 +8,46 @@ sites:
     url: https://labelvier.nl
   - name: Upptime test L4
     url: https://upptime.labelvier.dev 
+  - name: Falkena
+    url: https://falkena.nl
+  - name: Fiber Unlimited
+    url: https://fiberunlimited.com
+  - name: Fundatis
+    url: https://fundatis.nl
+  - name: Seats2meet
+    url: https://gdpr.seats2meet.com
+  - name: Jurriëns
+    url: https://jurriens.nl
+  - name: Peek Maps
+    url: https://maps.peek.app
+  - name: Bicycling shop
+    url: https://next.shop.bicycling.nl
+  - name: Mens health shop
+    url: https://next.shop.menshealth.nl
+  - name: Runners shop
+    url: https://next.shop.runners.nl
+  - name: Voetbal International shop
+    url: https://next.shop.vi.nl
+  - name: Womens health magazine shop
+    url: https://next.shop.womenshealthmag.nl
+  - name: Ondertekenen Labelvier
+    url: https://ondertekenen.labelvier.nl
+  - name: Bicycling shop
+    url: https://shop.bicycling.nl
+  - name: Mens health shop
+    url: https://shop.menshealth.nl
+  - name: Runners shop
+    url: https://shop.runners.nl
+  - name: Voetbal international shop
+    url: https://shop.vi.nl
+  - name: Womens health magazine shop
+    url: https://shop.womenshealthmag.nl
+  - name: Stadsjochies
+    url: https://stadsjochies.nl
+  - name: Cyberdigma support
+    url: https://support.cyberdigma.nl
+  - name: Label Vier Updater
+    url: https://updater.labelvier.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
