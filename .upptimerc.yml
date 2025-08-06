@@ -7,7 +7,7 @@ sites:
   - name: Labelvier
     url: https://labelvier.nl
   - name: Upptime test L4
-    url: https://upptime.labelvier.dev 
+    url: https://upptime.labelvier.dev
   - name: Falkena
     url: https://falkena.nl
   - name: Fiber Unlimited
@@ -44,10 +44,196 @@ sites:
     url: https://shop.womenshealthmag.nl
   - name: Stadsjochies
     url: https://stadsjochies.nl
-  - name: Cyberdigma support
-    url: https://support.cyberdigma.nl
   - name: Label Vier Updater
     url: https://updater.labelvier.nl
+  - name: 4returns.commonland.com
+    url: https://4returns.commonland.com
+  - name: 80dayscoffee.com
+    url: https://80dayscoffee.com
+  - name: adwinpeeks.nl
+    url: https://adwinpeeks.nl
+  - name: afrisiantravels.com
+    url: https://afrisiantravels.com
+  - name: alfaramen.nl
+    url: https://alfaramen.nl
+  - name: allergytherapeutics.nl
+    url: https://allergytherapeutics.nl
+  - name: allesoverhooikoorts.nl
+    url: https://allesoverhooikoorts.nl
+  - name: anneliesbraams.nl
+    url: https://anneliesbraams.nl
+  - name: app.thuisleefbieb.nl
+    url: https://app.thuisleefbieb.nl
+  - name: avs.nl
+    url: https://avs.nl
+  - name: balkonfabriek.nl
+    url: https://balkonfabriek.nl
+  - name: bedderx.com
+    url: https://bedderx.com
+  - name: beheer.bouwkeet.app
+    url: https://beheer.bouwkeet.app
+  - name: beixo.nl
+    url: https://beixo.nl
+  - name: berseba.nl
+    url: https://berseba.nl
+  - name: bestellen.bouwmarkt.nl
+    url: https://bestellen.bouwmarkt.nl
+  - name: betteld.nl
+    url: https://betteld.nl
+  - name: betteldagenda.nl
+    url: https://betteldagenda.nl
+  - name: bouflegal.nl
+    url: https://bouflegal.nl
+  - name: bouwmarkt.nl
+    url: https://bouwmarkt.nl
+  - name: bronscholen.nl
+    url: https://bronscholen.nl
+  - name: buytentuindesign.nl
+    url: https://buytentuindesign.nl
+  - name: cgk.nl
+    url: https://cgk.nl
+  - name: CHB Develop Endpoint
+    url: https://chb.gebruikersportaal.nl/cii/token/chbtest
+  - name: chb.herstelverzoek.nl
+    url: https://chb.herstelverzoek.nl
+  - name: christianholidays.guide
+    url: https://christianholidays.guide
+  - name: Coenhagedoorn.nl
+    url: https://coenhagedoorn.nl
+  - name: commonland.com
+    url: https://commonland.com
+  - name: dealerportaal.winwheelz.nl
+    url: https://dealerportaal.winwheelz.nl
+  - name: debronscholen.nl
+    url: https://debronscholen.nl
+  - name: deherenkapperacademy.nl
+    url: http://deherenkapperacademy.nl
+  - name: deherenkapperapeldoorn.nl
+    url: https://deherenkapperapeldoorn.nl
+  - name: deleiderschapsagenda.nl
+    url: https://deleiderschapsagenda.nl
+  - name: deonderwijskundige.nl
+    url: https://deonderwijskundige.nl
+  - name: develop.thuisleefbieb.nl
+    url: https://develop.thuisleefbieb.nl
+  - name: ditwerktvoormij.nl
+    url: https://ditwerktvoormij.nl
+  - name: dri3man.nl
+    url: https://dri3man.nl
+  - name: dushihuis.nl
+    url: https://dushihuis.nl
+  - name: fancit.nl
+    url: https://fancit.nl
+  - name: feliceskincare.nl
+    url: https://feliceskincare.nl
+  - name: ferm-s3h.nl
+    url: https://www.ferm-s3h.nl
+  - name: fiscaalraadgevers.nl
+    url: https://fiscaalraadgevers.nl
+  - name: freshforward.app
+    url: https://freshforward.app
+  - name: freshforward.com
+    url: https://freshforward.com
+  - name: friedensstimme.nl
+    url: https://www.friedensstimme.nl
+  - name: futurise.online
+    url: https://futurise.online
+  - name: gerritjanshoeve.nl
+    url: https://gerritjanshoeve.nl
+  - name: harlemanconstructies.nl
+    url: https://harlemanconstructies.nl
+  - name: hospitainer.com
+    url: https://hospitainer.com
+  - name: hospitainerfoundation.org
+    url: https://hospitainerfoundation.org
+  - name: huisterleede.nl
+    url: https://www.huisterleede.nl
+  - name: innoval.nl
+    url: https://innoval.nl
+  - name: interiorboost.nl
+    url: https://interiorboost.nl
+  - name: investinternational.nl
+    url: https://investinternational.nl
+  - name: j-sus.com
+    url: https://j-sus.com
+  - name: kaswinkel.stadsjochies.nl
+    url: https://kaswinkel.stadsjochies.nl
+  - name: klu.nl
+    url: https://www.klu.nl
+  - name: knmv.nl
+    url: https://knmv.nl
+  - name: locaties.betteld.nl
+    url: https://locaties.betteld.nl
+  - name: lunarinstitute.com
+    url: https://lunarinstitute.com
+  - name: madebymarnix.nl
+    url: https://madebymarnix.nl
+  - name: marathonr.run
+    url: https://marathonr.run
+  - name: mmwt.nl
+    url: https://mmwt.nl
+  - name: moria.nl
+    url: https://moria.nl
+  - name: motorrijders.nl
+    url: https://motorrijders.nl
+  - name: munji-thegame.com
+    url: https://munji-thegame.com
+  - name: mx-masterplan.com
+    url: https://mx-masterplan.com
+  - name: My Peek
+    url: https://my.peek.app
+  - name: nedles.nl
+    url: https://nedles.nl
+  - name: netfoundation.nl
+    url: https://www.netfoundation.nl
+  - name: nswspecialist.nl
+    url: https://nswspecialist.nl
+  - name: omnivent.com
+    url: https://omnivent.com
+  - name: onderweegsenpartners.nl
+    url: https://onderweegsenpartners.nl
+  - name: opelkadett.nl
+    url: https://opelkadett.nl
+  - name: oudefiets.nl
+    url: https://oudefiets.nl
+  - name: Peek App
+    url: https://my.peek.app/wp-json
+  - name: Peek Website
+    url: https://www.peek.app
+  - name: praytogether.today
+    url: https://praytogether.today
+  - name: renovum.nl
+    url: https://renovum.nl
+  - name: Rhinohorn
+    url: https://rhinohorn.nl
+  - name: robertdaverschot.nl
+    url: https://robertdaverschot.nl
+  - name: stiptwerk.nl
+    url: https://stiptwerk.nl
+  - name: thuisleefbieb.nl
+    url: https://thuisleefbieb.nl
+  - name: thuisleefgids.nl
+    url: https://thuisleefgids.nl
+  - name: treffendenco.nl
+    url: https://treffendenco.nl
+  - name: winduro.nl
+    url: https://winduro.nl
+  - name: wittenbergzorg.nl
+    url: https://www.wittenbergzorg.nl
+  - name: WordPress Updating Tool
+    url: 136.144.146.93
+  - name: www.deonderwijskundige.nl
+    url: https://www.deonderwijskundige.nl
+  - name: Yoni (DE)
+    url: https://yoni.care/de
+  - name: Yoni (FR)
+    url: https://yoni.care/fr
+  - name: Yoni (NL)
+    url: https://yoni.care/nl
+  - name: yoni.care
+    url: https://yoni.care
+  - name: zilliz.nl
+    url: https://zilliz.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
